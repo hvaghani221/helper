@@ -1,0 +1,1146 @@
+[
+  {
+    "name": "1forge.com",
+    "spec_url": "https://raw.githubusercontent.com/APIs-guru/openapi-directory/main/APIs/1forge.com/0.0.1/swagger.yaml"
+  },
+  {
+    "name": "abstract-ip-geolocation",
+    "spec_url": "https://api.apis.guru/v2/specs/abstractapi.com/geolocation/1.0.0/openapi.json"
+  },
+  {
+    "name": "acnh-api, acnh-api_v1",
+    "spec_url": "https://raw.githubusercontent.com/mjibril/specs/main/acnh-api-v1.yaml"
+  },
+  {
+    "name": "agify",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/agify.yaml"
+  },
+  {
+    "name": "engage-apsa",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/engage-apsa.yaml"
+  },
+  {
+    "name": "chicago-art",
+    "spec_url": "https://raw.githubusercontent.com/mjibril/specs/main/chicago_art.yml"
+  },
+  {
+    "name": "auckland-museum",
+    "spec_url": "https://raw.githubusercontent.com/mjibril/specs/main/auckland-museum.yaml"
+  },
+  {
+    "name": "aviation-api",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/avaiation-api.yaml"
+  },
+  {
+    "name": "ball-dont-lie, ball-dont-lie-v1, ball-dont-lie_v3",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/balldontlie.yaml"
+  },
+  {
+    "name": "bc-gov-news",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/bc_gov_news.yaml"
+  },
+  {
+    "name": null,
+    "spec_url": "https://api.apis.guru/v2/specs/bclaws.ca/bclaws/1.0.0/openapi.json#/"
+  },
+  {
+    "name": "bd-api",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/bd-api.yaml"
+  },
+  {
+    "name": "bhagavadgitaapi,\nbhagavadgitaapi-v1, \nbhagavadgitaapi_v2",
+    "spec_url": "https://raw.githubusercontent.com/Musbell/openapi-specs/main/bhagvadgita-api.yaml"
+  },
+  {
+    "name": "bible-search",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/bible-search-0.1-swagger.yaml"
+  },
+  {
+    "name": "binance",
+    "spec_url": "https://binance.github.io/binance-api-swagger/spot_api.yaml"
+  },
+  {
+    "name": "bored-api,bored-api-v1,bored-api-v2",
+    "spec_url": "https://raw.githubusercontent.com/mjibril/specs/main/bored-api.yaml"
+  },
+  {
+    "name": "brazil-api",
+    "spec_url": "https://raw.githubusercontent.com/temaledegn/api-specs/main/brazil-api/swagger.json"
+  },
+  {
+    "name": "british-columbia-catalogue",
+    "spec_url": "https://api.apis.guru/v2/specs/gov.bc.ca/bcdc/3.0.1/openapi.json"
+  },
+  {
+    "name": "canada-holidays",
+    "spec_url": "https://api.apis.guru/v2/specs/canada-holidays.ca/1.8.0/openapi.json"
+  },
+  {
+    "name": "carbon-intensity",
+    "spec_url": "https://raw.githubusercontent.com/Musbell/carbon-intensity/main/carbonIntensity.yml"
+  },
+  {
+    "name": "cat-facts",
+    "spec_url": "https://catfact.ninja/docs/api-docs.json"
+  },
+  {
+    "name": "chem-rxiv",
+    "spec_url": "https://raw.githubusercontent.com/mjibril/openapi-specs/main/chem-rxiv.yaml"
+  },
+  {
+    "name": "cocktail-db",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/cocktail-db.yaml"
+  },
+  {
+    "name": "coin-gecko, coin-gecko_v1",
+    "spec_url": "https://raw.githubusercontent.com/seun-beta/openapi-specs-1/chore/coin-gecko-fix/coin-gecko-openapi.yaml"
+  },
+  {
+    "name": "coin-stats",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/coin-stats.yaml"
+  },
+  {
+    "name": "rest_countries",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/rest-countries.yml"
+  },
+  {
+    "name": null,
+    "spec_url": null
+  },
+  {
+    "name": "exchange-bitpreco",
+    "spec_url": null
+  },
+  {
+    "name": "dhl-shipment-tracking",
+    "spec_url": "https://developer.dhl.com/sites/default/files/2023-02/utapi-traking-api-1.4.1.yaml"
+  },
+  {
+    "name": "digitalocean-status",
+    "spec_url": "https://raw.githubusercontent.com/tipsygoo/openapi-spec/main/digitalocean-status-api/2.0.0/openapi3_0.yaml"
+  },
+  {
+    "name": "disease-sh",
+    "spec_url": "https://raw.githubusercontent.com/mjibril/specs/main/disease-sh.yaml"
+  },
+  {
+    "name": "disney-characters_v1",
+    "spec_url": "https://raw.githubusercontent.com/Musbell/Disney-Characters-API/master/disney/disney-characters-openapi3_0.yaml"
+  },
+  {
+    "name": "dog-api",
+    "spec_url": "https://raw.githubusercontent.com/gustavorauber/openapi/main/dog-api.yaml"
+  },
+  {
+    "name": "domains-db",
+    "spec_url": "https://raw.githubusercontent.com/Musbell/openapi-specs/main/domainsdb-openapi.yaml"
+  },
+  {
+    "name": "ergast-f1",
+    "spec_url": "https://raw.githubusercontent.com/adampax/ergast-f1-openapi-doc/master/ergast-openapi-doc.yaml"
+  },
+  {
+    "name": "drive-bc-open-511",
+    "spec_url": "https://raw.githubusercontent.com/mjibril/specs/main/drive511.yml"
+  },
+  {
+    "name": "chuck-norris",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/chuck-norris.yaml"
+  },
+  {
+    "name": "exchange-rates",
+    "spec_url": "https://api.apis.guru/v2/specs/exchangerate-api.com/4/openapi.json"
+  },
+  {
+    "name": null,
+    "spec_url": "https://api.apis.guru/v2/specs/firebrowse.org/1.1.38/swagger.json"
+  },
+  {
+    "name": "fish-watch",
+    "spec_url": null
+  },
+  {
+    "name": null,
+    "spec_url": null
+  },
+  {
+    "name": "fema-disasters",
+    "spec_url": "https://raw.githubusercontent.com/mjibril/specs/main/disasters-us.yml"
+  },
+  {
+    "name": "france-address",
+    "spec_url": "https://raw.githubusercontent.com/gustavorauber/openapi/main/france-adresse.yaml"
+  },
+  {
+    "name": "dictionary-api_v1",
+    "spec_url": "https://raw.githubusercontent.com/arunavo4/openapi-specs-2/main/dictionary_api_openai_spec.json"
+  },
+  {
+    "name": "fruityvice",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/Fruityvice/Fruityvice.json"
+  },
+  {
+    "name": "fun-translation",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/funtranslations-openapi.yaml"
+  },
+  {
+    "name": "google-books",
+    "spec_url": "https://api.apis.guru/v2/specs/googleapis.com/books/v1/openapi.json"
+  },
+  {
+    "name": null,
+    "spec_url": "https://raw.githubusercontent.com/googlemaps/openapi-specification/main/dist/google-maps-platform-openapi3.json"
+  },
+  {
+    "name": null,
+    "spec_url": null
+  },
+  {
+    "name": "github",
+    "spec_url": "https://raw.githubusercontent.com/github/rest-api-description/main/descriptions/ghes-3.0/ghes-3.0.json"
+  },
+  {
+    "name": "hashlookup",
+    "spec_url": "https://raw.githubusercontent.com/mjibril/specs/main/hashlookup.yaml"
+  },
+  {
+    "name": "healthcare-gov",
+    "spec_url": "https://raw.githubusercontent.com/Musbell/healthcare.gov/main/healthCareGov.json"
+  },
+  {
+    "name": "interzoid",
+    "spec_url": "https://api.apis.guru/v2/specs/interzoid.com/getcurrencyrate/1.0.0/openapi.json"
+  },
+  {
+    "name": "jikan",
+    "spec_url": "https://raw.githubusercontent.com/Amh-42/Jikan-API/main/openapispec.json"
+  },
+  {
+    "name": "quran",
+    "spec_url": "https://raw.githubusercontent.com/Musbell/Quran-api/main/quran.yml"
+  },
+  {
+    "name": "joke-of-the-day",
+    "spec_url": "https://api.apis.guru/v2/specs/jokes.one/1.1/swagger.json"
+  },
+  {
+    "name": "joke",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/jokes-api.yaml"
+  },
+  {
+    "name": "jokeapi-dev",
+    "spec_url": "https://raw.githubusercontent.com/gustavorauber/openapi/main/jokeapi.yaml"
+  },
+  {
+    "name": "launch-library",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/launch-library-v_2_2_0.yaml"
+  },
+  {
+    "name": "listen-notes, listen-notes_v1",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/Shreyash-specs/main/ListenNotesTestServer.yml"
+  },
+  {
+    "name": "engage-miir",
+    "spec_url": "https://raw.githubusercontent.com/mjibril/openapi-specs/main/engage-miir.yaml"
+  },
+  {
+    "name": "meow-facts, meow-facts_v1",
+    "spec_url": "https://raw.githubusercontent.com/mjibril/specs/main/meow.json"
+  },
+  {
+    "name": "nager-date, nager-date-v2, nager-date_v3",
+    "spec_url": "https://raw.githubusercontent.com/Musbell/nager-date/main/nager-date.openapi-spec.json"
+  },
+  {
+    "name": "newsapi",
+    "spec_url": "https://api.apis.guru/v2/specs/gov.bc.ca/news/1.0/openapi.json"
+  },
+  {
+    "name": "nasa",
+    "spec_url": "https://raw.githubusercontent.com/gustavorauber/openapi/main/nasa.yaml"
+  },
+  {
+    "name": "neowsapp",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/neo.json"
+  },
+  {
+    "name": null,
+    "spec_url": "https://raw.githubusercontent.com/APIs-guru/openapi-directory/main/APIs/notion.com/1.0.0/openapi.yaml"
+  },
+  {
+    "name": "nobel-prize-master, nobel-prize-master-v1, nobel-prize-master-v2, nobel-prize-master_v3",
+    "spec_url": "https://raw.githubusercontent.com/Musbell/Nobel-Prize-Master-Data/main/Timmed-NobelMedia-NobelMasterData-2.1-resolved.json"
+  },
+  {
+    "name": "omdb",
+    "spec_url": "https://api.apis.guru/v2/specs/omdbapi.com/1/swagger.json"
+  },
+  {
+    "name": "nominatim",
+    "spec_url": "https://raw.githubusercontent.com/mjibril/specs/main/nominatim.yaml"
+  },
+  {
+    "name": "numbers-api, numbers-api_v1, numbers-api_v2",
+    "spec_url": "https://raw.githubusercontent.com/gustavorauber/openapi/main/numbers-api.yaml"
+  },
+  {
+    "name": "open-brewery-db",
+    "spec_url": "https://raw.githubusercontent.com/gustavorauber/openapi/main/open-brewery-db.yaml"
+  },
+  {
+    "name": "open-food-facts",
+    "spec_url": "https://raw.githubusercontent.com/gustavorauber/openapi/main/open-food-facts.yaml"
+  },
+  {
+    "name": "air-quality-open-metro",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/air-quality.yaml"
+  },
+  {
+    "name": "open-library",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/openlibrary.yaml"
+  },
+  {
+    "name": "geocoding-open-metro",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/geocoding-open-meteo.yaml"
+  },
+  {
+    "name": "open-meteo, open-meteo_v2",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/open-meteo.yaml"
+  },
+  {
+    "name": "open-trivia-database",
+    "spec_url": null
+  },
+  {
+    "name": null,
+    "spec_url": null
+  },
+  {
+    "name": "petfinder",
+    "spec_url": "https://api.petfinder.com/openapi.yaml"
+  },
+  {
+    "name": "archive-open-metro",
+    "spec_url": "https://raw.githubusercontent.com/arunavo4/openapi-specs/main/open-meteo-historical.yaml"
+  },
+  {
+    "name": "open-skills",
+    "spec_url": "https://raw.githubusercontent.com/workforce-data-initiative/skills-api/master/skills-api.json"
+  },
+  {
+    "name": "pokemon-api",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/gustavorauber-openapi/main/pokemon-api.yaml"
+  },
+  {
+    "name": "public-apis",
+    "spec_url": "https://raw.githubusercontent.com/Musbell/Public-API-for-Public-APIs-Openapi-spec-/main/public_api_openapi.json"
+  },
+  {
+    "name": null,
+    "spec_url": "https://raw.githubusercontent.com/slackapi/slack-api-specs/master/web-api/slack_web_openapi_v2_without_examples.json"
+  },
+  {
+    "name": "soccer-v3-scores",
+    "spec_url": "https://redocly.github.io/redoc/?url=https://api.apis.guru/v2/specs/sportsdata.io/soccer-v3-scores/1.0/openapi.json"
+  },
+  {
+    "name": "punk-api",
+    "spec_url": "https://raw.githubusercontent.com/tipsygoo/openapi-spec/main/punk-api/2.0.0/openapi3_0.yaml"
+  },
+  {
+    "name": "random-user-generator_v1",
+    "spec_url": "https://raw.githubusercontent.com/jothamc/OpenAPISpecs/main/random-user-open-api-specs.json"
+  },
+  {
+    "name": "spacex",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/spacex.yaml"
+  },
+  {
+    "name": "stack-exchange",
+    "spec_url": "https://raw.githubusercontent.com/openapis/api-specs/master/stackexchange/stackexchange-api-v2.2_openapi-v3.0.yaml"
+  },
+  {
+    "name": "soilgrids",
+    "spec_url": "https://raw.githubusercontent.com/Musbell/Soilgrids-REST-API/main/soilgrids.openapi-spec.json"
+  },
+  {
+    "name": "spaceflight-news, spaceflight-news-v1, spaceflight-news_v3",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/spaceflight-news-api.yaml"
+  },
+  {
+    "name": "star-wars, star-wars_v1, star-wars_v2",
+    "spec_url": "https://raw.githubusercontent.com/mjibril/specs/main/SW-API.yaml"
+  },
+  {
+    "name": "sunset-sunrise",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/Sunrise/sunrise.json"
+  },
+  {
+    "name": "10-minute-mail",
+    "spec_url": "https://api.mail.gw/"
+  },
+  {
+    "name": "met-collection",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/met-collection.yaml"
+  },
+  {
+    "name": "swiss-public-transport, swiss-public-transport-v1,swiss-public-transport_v3",
+    "spec_url": "https://raw.githubusercontent.com/jothamc/OpenAPISpecs/main/swiss-public-transport-v1-open-api-specs.yaml"
+  },
+  {
+    "name": "teleport",
+    "spec_url": "https://raw.githubusercontent.com/mjibril/specs/main/teleport.yaml"
+  },
+  {
+    "name": "they-said-so, they-said-so_v1",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/they-said-so-quotes.yaml"
+  },
+  {
+    "name": "trivia-qa, trivia-qa_v1",
+    "spec_url": "https://raw.githubusercontent.com/asaad-iqbal/openapi-specs/main/trivia-qa.yaml"
+  },
+  {
+    "name": "tv-maze",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/TV%20Maze/openapi.json"
+  },
+  {
+    "name": "uk-parliament,uk-parliament_v1",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/uk-parliament-bills.yaml"
+  },
+  {
+    "name": "uk-parliament-members",
+    "spec_url": "https://raw.githubusercontent.com/Musbell/openapi-specs/main/uk-parliament-members.yaml"
+  },
+  {
+    "name": "us-treasury",
+    "spec_url": null
+  },
+  {
+    "name": "us-weather",
+    "spec_url": "https://api.weather.gov/openapi.json"
+  },
+  {
+    "name": "uk-urban-observatory",
+    "spec_url": "https://raw.githubusercontent.com/gustavorauber/openapi/main/newcastle-urban-observatory.yaml"
+  },
+  {
+    "name": "universities",
+    "spec_url": "https://raw.githubusercontent.com/gustavorauber/openapi/main/universities-api.yaml"
+  },
+  {
+    "name": "usgs-earthquake",
+    "spec_url": "https://raw.githubusercontent.com/mjibril/specs/main/usgs-earthquake.yaml"
+  },
+  {
+    "name": "usgs-water",
+    "spec_url": "https://raw.githubusercontent.com/Musbell/USGS-Water-Services-API/main/openapi.json"
+  },
+  {
+    "name": "wttr",
+    "spec_url": "https://wttr.in/:help"
+  },
+  {
+    "name": "vpic-nhtsa",
+    "spec_url": "https://raw.githubusercontent.com/Musbell/VPIC-NHTSA-API/main/trimmed-vpic-nhtsa-api-spec.json"
+  },
+  {
+    "name": "wazirx, wazirx_v1",
+    "spec_url": "https://raw.githubusercontent.com/arunavo4/openapi-specs-public-apis/main/wazirx/wazirx.json"
+  },
+  {
+    "name": "web-series-quotes, web-series-quotes_v1",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/Web%20Sereis%20Quotes/web-series-quotes.json"
+  },
+  {
+    "name": "whisky-hunter",
+    "spec_url": "https://raw.githubusercontent.com/mjibril/specs/main/whisky-hunter.yaml"
+  },
+  {
+    "name": "wikimedia-api",
+    "spec_url": "https://raw.githubusercontent.com/mjibril/specs/main/wikimedia-rest-api.yaml"
+  },
+  {
+    "name": "wikipedia, wikipedia_v2",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/Wikipedia/wikipedia.yaml"
+  },
+  {
+    "name": "world-bank, world-bank_v3",
+    "spec_url": "https://raw.githubusercontent.com/jothamc/OpenAPISpecs/main/world-bank-api-v2-open-api-specs.json"
+  },
+  {
+    "name": "world-time, world-time_v1",
+    "spec_url": "https://raw.githubusercontent.com/jothamc/OpenAPISpecs/main/world-time-v1-open-api-specs.yaml"
+  },
+  {
+    "name": "xkcd-webcomics",
+    "spec_url": "https://raw.githubusercontent.com/Musbell/XKCD-API/main/XKCD-api.json"
+  },
+  {
+    "name": "zippotamus",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/zippopotamus.yaml"
+  },
+  {
+    "name": "random-lovecraft",
+    "spec_url": "https://raw.githubusercontent.com/zaineb0123/randomlovecraft.com/master/public/openapi.yaml"
+  },
+  {
+    "name": "breaking-bad-quotes",
+    "spec_url": "https://raw.githubusercontent.com/dheeraj-turing/open-api-spec/main/breaking-bad.yml"
+  },
+  {
+    "name": "deezer",
+    "spec_url": "https://raw.githubusercontent.com/gustavorauber/openapi/main/deezer-api.yaml"
+  },
+  {
+    "name": "kitty-facts",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/Mutants/kitty-facts.json"
+  },
+  {
+    "name": "regan-date",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/Mutants/Regan-date.json"
+  },
+  {
+    "name": "basketball-mania",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/Mutants/basketball-mania.yaml"
+  },
+  {
+    "name": "nobel-foundation",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/Mutants/nobel-foundation.json"
+  },
+  {
+    "name": "rocket-library",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/Mutants/rocket-library.yaml"
+  },
+  {
+    "name": "sbb-api",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/Mutants/sbb-api.yaml"
+  },
+  {
+    "name": "jedi-api",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/Mutants/jedi-api.yaml"
+  },
+  {
+    "name": "beer-api",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/Mutants/beer-api.yaml"
+  },
+  {
+    "name": "earthquake-db",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/Mutants/earthquake-db.yaml"
+  },
+  {
+    "name": "canine-api",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/Mutants/canine-api.yaml"
+  },
+  {
+    "name": "currency-rate",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/Mutants/currency-rate.json"
+  },
+  {
+    "name": "fruit-facts",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/Mutants/fruit-facts.json"
+  },
+  {
+    "name": "mickey-and-friends",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/Mutants/mickey-and-friends.yaml"
+  },
+  {
+    "name": "podcasts-api",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/Mutants/podcasts-api.yaml"
+  },
+  {
+    "name": "uk-sustainability",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/Mutants/uk-sustainability.yaml"
+  },
+  {
+    "name": "free-api",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/Mutants/free-api.json"
+  },
+  {
+    "name": "vatsim-api",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/Mutants/vatsim-api.yaml"
+  },
+  {
+    "name": "bartender-helper",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/Mutants/bartender-helper.yaml"
+  },
+  {
+    "name": "get-active",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/Mutants/get-active.yaml"
+  },
+  {
+    "name": "astro-flght-news",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/Mutants/astro-flight-news.yaml"
+  },
+  {
+    "name": "corona-api",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/Mutants/corona_api.yaml"
+  },
+  {
+    "name": "world-clock",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/Mutants/world-clock.yaml"
+  },
+  {
+    "name": "distillery-hunter",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/distillery-hunter.yaml"
+  },
+  {
+    "name": "open-authors",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/open-authors.yaml"
+  },
+  {
+    "name": "chem-news-now",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/chem-news-now.yaml"
+  },
+  {
+    "name": "pocket-monsters",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/pocket-monsters.yaml"
+  },
+  {
+    "name": "thesaurus",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/thesaurus.yaml"
+  },
+  {
+    "name": "tv-db",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/tv-db.yaml"
+  },
+  {
+    "name": "ciders-club",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/ciders-club.yaml"
+  },
+  {
+    "name": "the-gita-api",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/the-gita-api.yaml"
+  },
+  {
+    "name": "math-reports",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/math-reports.yaml"
+  },
+  {
+    "name": "american-political-science-reports",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/american-political-science-reports.yaml"
+  },
+  {
+    "name": "general-knowledge",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/Mutants/general-knowledge.yaml"
+  },
+  {
+    "name": "numerical-fun",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/Mutants/numerical-fun.yaml"
+  },
+  {
+    "name": "parliament-bills",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/Mutants/parliament-bills.yaml"
+  },
+  {
+    "name": "they-work-for-us",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/Mutants/they-work-for-us.yaml"
+  },
+  {
+    "name": "zipcode-db",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/Mutants/zipcode-db.yaml"
+  },
+  {
+    "name": "open-meteo-historical",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/open-meteo-historical.yaml"
+  },
+  {
+    "name": "nutriguide-api",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/nutiguide-api.yaml"
+  },
+  {
+    "name": "character-translate",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/Mutants/character-translation.yaml"
+  },
+  {
+    "name": "anime-quotes",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/anime-quotes.yaml"
+  },
+  {
+    "name": "catboys-api",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/catboys-api.yaml"
+  },
+  {
+    "name": "indian-pin-codes",
+    "spec_url": "https://raw.githubusercontent.com/dheeraj-turing/open-api-spec/main/indian-pin-codes.yaml"
+  },
+  {
+    "name": "wizard-world",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/wizard-world.yaml"
+  },
+  {
+    "name": "gutendex",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/gutendex.yaml"
+  },
+  {
+    "name": "next-mcu-production",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/next-mcu-production.yaml"
+  },
+  {
+    "name": "random-coffee-image",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/random-coffee-image.yaml"
+  },
+  {
+    "name": "itunes-store",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/itunes-store.yaml"
+  },
+  {
+    "name": "open-notify",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/open-notify.yaml"
+  },
+  {
+    "name": "icanhazdadjoke",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/icanhazdadjoke.yaml"
+  },
+  {
+    "name": "frankfurter-exchange-rates",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/frankfurter-exchange-rates.yaml"
+  },
+  {
+    "name": "quote-garden",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/quote-garden.yaml"
+  },
+  {
+    "name": "deck-of-cards",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/deck-of-cards.yaml"
+  },
+  {
+    "name": "liturgical-calendar",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/liturgical-calendar.yaml"
+  },
+  {
+    "name": "genderize",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/genderize.yaml"
+  },
+  {
+    "name": "nationalize",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/nationalize.yaml"
+  },
+  {
+    "name": "cat-aas",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/cataas.yaml"
+  },
+  {
+    "name": "nameday-api",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/nameday-api.yaml"
+  },
+  {
+    "name": "quotable",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/quotable.yaml"
+  },
+  {
+    "name": "random-data-api",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/random-data-api.yaml"
+  },
+  {
+    "name": "rps-101",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/rps-101.yaml"
+  },
+  {
+    "name": "gotiny",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/gotiny.yaml"
+  },
+  {
+    "name": "stranger-things",
+    "spec_url": "https://raw.githubusercontent.com/vbrenck/openapi/master/stranger-things/openapi.yaml"
+  },
+  {
+    "name": "thronesapi",
+    "spec_url": "https://raw.githubusercontent.com/vbrenck/openapi/master/thronesapi/openapi.yaml"
+  },
+  {
+    "name": "luchtmeetnet",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/luchtmeetnet.yaml"
+  },
+  {
+    "name": "coin-lore",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/coin-lore.yaml"
+  },
+  {
+    "name": "duck-images",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/duck-images.yaml"
+  },
+  {
+    "name": "programming-contests",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/programming-contests.yaml"
+  },
+  {
+    "name": "dictum-quotes",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/dictum-quotes.yaml"
+  },
+  {
+    "name": "fbi-wanted",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/fbi-wanted.yaml"
+  },
+  {
+    "name": "jeopardy-service",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/jeopardy-service.yaml"
+  },
+  {
+    "name": "interpol-notices",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/interpol-notices.yaml"
+  },
+  {
+    "name": "makeup-api",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/makeup-api.yaml"
+  },
+  {
+    "name": "isro-api",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/isro-api.yaml"
+  },
+  {
+    "name": "passwordinator",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/passwordinator.yaml"
+  },
+  {
+    "name": "advice-slip",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/advice-slip.yaml"
+  },
+  {
+    "name": "ron-swanson-quotes",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/ron-swanson-quotes.yaml"
+  },
+  {
+    "name": "foss42-countries",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/foss42-countries.yaml"
+  },
+  {
+    "name": "foss42-conversion",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/foss42-conversion.yaml"
+  },
+  {
+    "name": "free-forex-rate",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/free-forex.yaml"
+  },
+  {
+    "name": "awesome-forex-quote",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/awesome-forex-quote.yaml"
+  },
+  {
+    "name": "uk-police",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/uk-police.yaml"
+  },
+  {
+    "name": "mesario-crypto",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/mesario-crypto.yaml"
+  },
+  {
+    "name": "bc-ferries",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/bc-ferries.yaml"
+  },
+  {
+    "name": "pingutil-email-validator",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/pingutil-email-validator.yaml"
+  },
+  {
+    "name": "mailcheck-ai",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/mailcheck-ai.yaml"
+  },
+  {
+    "name": "irail-api",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/irail-api.yaml"
+  },
+  {
+    "name": "faker-api",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/faker-api.yaml"
+  },
+  {
+    "name": "cheap-shark",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/cheapshark.yaml"
+  },
+  {
+    "name": "fake-product-store",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/fake-product-store.yaml"
+  },
+  {
+    "name": "1ptco-api",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/1ptco-api.yaml"
+  },
+  {
+    "name": "ulvis-api",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/ulvis-api.yaml"
+  },
+  {
+    "name": "harry-potter",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/harry-potter.yaml"
+  },
+  {
+    "name": "lucifer-quotes",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/lucifer-quotes.yaml"
+  },
+  {
+    "name": "highways-england",
+    "spec_url": "https://api.apis.guru/v2/specs/highwaysengland.co.uk/v1/openapi.json"
+  },
+  {
+    "name": "uk-commons-votes",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/uk-commons-votes.yaml"
+  },
+  {
+    "name": "uk-lords-votes",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/uk-lords-votes.yaml"
+  },
+  {
+    "name": "uk-commons-questions",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/uk-commons-questions.yaml"
+  },
+  {
+    "name": "uk-statutory-instruments",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/uk-statutory-instruments.yaml"
+  },
+  {
+    "name": "uk-treaties",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/uk-treaties.json"
+  },
+  {
+    "name": "xeno-canto",
+    "spec_url": "https://raw.githubusercontent.com/tipsygoo/openapi-spec/main/xeno-canto/2.0.0/openapi3_0.yaml"
+  },
+  {
+    "name": "doctor-who",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/doctor-who.yaml"
+  },
+  {
+    "name": "free-to-game",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/free-to-game.yaml"
+  },
+  {
+    "name": "football-standings-api",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/football-standings-api.yaml"
+  },
+  {
+    "name": "an-api-of-ice-and-fire",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/an-api-of-ice-and-fire.yaml"
+  },
+  {
+    "name": "administrative-divisions",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/administrative-divisions.yaml"
+  },
+  {
+    "name": "chess-master-stats",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/chess-com-master-stats.yaml"
+  },
+  {
+    "name": "chess-puzzles",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/chess-com-puzzles.yaml"
+  },
+  {
+    "name": "clean-uri",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/cleanuri.yaml"
+  },
+  {
+    "name": "berlin-transport",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/berlin-transport.yaml"
+  },
+  {
+    "name": "short-code",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/shrtcode.yaml"
+  },
+  {
+    "name": "resmush-it",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/resmush-it.yaml"
+  },
+  {
+    "name": "prc-exam",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/prc-exam-api.yaml"
+  },
+  {
+    "name": "bacon-ipsum",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/bacon-ipsum.yaml"
+  },
+  {
+    "name": "bng-2-latlong",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/bng-2-latlong.yaml"
+  },
+  {
+    "name": "wallstreet-bets",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/wallstreet-bets.yaml"
+  },
+  {
+    "name": "uk-postcodes",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/uk-postcodes-api.yaml"
+  },
+  {
+    "name": "pokemon-tcg",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/pokemon-tcg.yaml"
+  },
+  {
+    "name": "city-bikes",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/city-bikes.yaml"
+  },
+  {
+    "name": "shibe-online",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/shibe-online.yaml"
+  },
+  {
+    "name": "open-north-representatives",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/open-north-ca-representatives.yaml"
+  },
+  {
+    "name": "npm-registry",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/npm-registry-api.yaml"
+  },
+  {
+    "name": "Network Calc DNS tools",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/network-calc-dns-tools.yaml"
+  },
+  {
+    "name": "currency-echange",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/currency-exchange.yaml"
+  },
+  {
+    "name": "asterrank-kepler",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/asterrank-kepler.yaml"
+  },
+  {
+    "name": "metaphorsum",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/metaphorsum.yaml"
+  },
+  {
+    "name": "asterrank-mpc",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/asterrank-mpc.yaml"
+  },
+  {
+    "name": "danish-energi",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/danish-energi.yaml"
+  },
+  {
+    "name": "digimon-api",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/digimon-api.yaml"
+  },
+  {
+    "name": "digimon-cards",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/digimon-cards.yaml"
+  },
+  {
+    "name": "digidates",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/digidates.yaml"
+  },
+  {
+    "name": "disify-api",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/disify-api.yaml"
+  },
+  {
+    "name": "emojis-hub",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/emojis-hub.yaml"
+  },
+  {
+    "name": "final-space",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/final-space.yaml"
+  },
+  {
+    "name": "hk-geodata",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/hk-geodata.yaml"
+  },
+  {
+    "name": "geo-js",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/geo-js.yaml"
+  },
+  {
+    "name": "gamer-power",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/gamerpower.yaml"
+  },
+  {
+    "name": "gemini-crypto",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/gemini-crypto-public.yaml"
+  },
+  {
+    "name": "get-ziptastic",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/ziptastic.yaml"
+  },
+  {
+    "name": "hacker-news",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/hacker-news.yaml"
+  },
+  {
+    "name": "hello-salut",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/hello-salut.yaml"
+  },
+  {
+    "name": "hyrule-compendium",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/hyrule-compendium.yaml"
+  },
+  {
+    "name": "zen-quotes",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/zenquotes.yaml"
+  },
+  {
+    "name": "website-carbon",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/website-carbon.yaml"
+  },
+  {
+    "name": "vat-comply",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/vatcomply.yaml"
+  },
+  {
+    "name": "uni-oslo-course-catalog",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/university-of-oslo-course-catalog.yaml"
+  },
+  {
+    "name": "random-useless-facts",
+    "spec_url": "https://raw.githubusercontent.com/dheeraj-turing/open-api-spec/main/random-fact-api.yml"
+  },
+  {
+    "name": "inshorts-news",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/inshorts-news.yaml"
+  },
+  {
+    "name": "nhs-cyber-alerts",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/nhs-cyber-alert.yaml"
+  },
+  {
+    "name": "refuge-restroom-api",
+    "spec_url": "https://raw.githubusercontent.com/Musbell/REFUGE-Restroom-API/main/restroom-api.json"
+  },
+  {
+    "name": "random-fox",
+    "spec_url": "https://raw.githubusercontent.com/gustavorauber/openapi/main/random-fox-api.yaml"
+  },
+  {
+    "name": "nhs-food-alerts",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/nhs-food-alerts.yaml"
+  },
+  {
+    "name": "ip-api",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/ip-api.yaml"
+  },
+  {
+    "name": "kanye-rest",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/kanye-rest.yaml"
+  },
+  {
+    "name": "uk-flood-warning",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/environment-data-gov-uk-flood-monitoring.yaml"
+  },
+  {
+    "name": "dailymotion",
+    "spec_url": "https://raw.githubusercontent.com/gustavorauber/openapi/main/daily-motion-api.yaml"
+  },
+  {
+    "name": "kickbox-api",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/kickbox-api.yaml"
+  },
+  {
+    "name": "loripsum-net",
+    "spec_url": "https://raw.githubusercontent.com/dev-magdy/OpenAPI-specs/main/loripsum-net.yaml"
+  },
+  {
+    "name": "startrek-api",
+    "spec_url": "https://raw.githubusercontent.com/gustavorauber/openapi/main/startrek-api.yaml"
+  },
+  {
+    "name": "got-quotes",
+    "spec_url": "https://raw.githubusercontent.com/gustavorauber/openapi/main/got-quotes-api.yaml"
+  },
+  {
+    "name": "tetr-io",
+    "spec_url": "https://raw.githubusercontent.com/shreyashag/openapi-specs/main/tetr-io.yaml"
+  },
+  {
+    "name": "rick-and-morty-api",
+    "spec_url": "https://raw.githubusercontent.com/seun-beta/Open-API-Specs/main/the-rick-and-morty-api.yaml"
+  },
+  {
+    "name": "yu-gi-oh",
+    "spec_url": "https://raw.githubusercontent.com/tipsygoo/openapi-spec/main/yu-gi-oh_api/7.0.0/openapi3_0.yaml"
+  }
+]
